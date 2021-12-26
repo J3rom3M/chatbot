@@ -1,5 +1,24 @@
 @charset "utf-8";
 
-h1 {
-  color: red;
+main
+{
+  min-width: 1200px;
+}
+
+#messages 
+{
+  overflow: auto;
+  height: calc(100vh - 140px);
+}
+
+h1
+{
+  font-size: 40px !important;
+}
+
+hr
+{
+  border: 1px solid #fff !important;
+  background: #fff !important;
+  opacity: 0.80;
 }
