@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+main
+{
+    min-width: 965px;
+}
+
+#messages 
+{
+    overflow: auto;
+    height: calc(100vh - 100px);
+}
+
