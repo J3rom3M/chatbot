@@ -32,3 +32,4 @@ Analyse the coding rules with :
 ```bash
 npm run lint
 ```
+vidéo bots step4 => 25min et 30sec
